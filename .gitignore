@@ -2,3 +2,4 @@ CIFAR*
 handwriting_data
 dropout_MNIST
 Fashion_MNIST
+__pycache__
