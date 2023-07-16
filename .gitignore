@@ -4,3 +4,11 @@ dropout_MNIST
 Fashion_MNIST
 __pycache__
 vgg11-*
+final_data
+*.png 
+MelSpec*
+STFT
+waveshow
+paintings
+plant
+plant_dataset
